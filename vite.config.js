@@ -12,6 +12,6 @@ export default defineConfig({
   server: {
     port: 80,      // Change port to 80
     host: true,     // Allow access via localhost and network IP
-    allowedHosts: ['face-frontend-7hyl.onrender.com']
+    allowedHosts: ['autofill-search-app.onrender.com']
   }
 })
